@@ -1,6 +1,7 @@
+
 # 💫 About Me:
 🔭 I’m currently working on: Enhancing my skills in HTML, JavaScript, Java, and CSS through small web development projects.<br><br>👯 I’m looking to collaborate on: Web projects involving front-end design or back-end development with Java.<br><br>🤝 I’m looking for help with: Learning full-stack development, including server-side technologies, databases, and modern frameworks.<br><br>🌱 I’m currently learning: Front-End principles, JavaScript, HTML, CSS and Java.<br><br>💬 Ask me about: Basic web development, HTML, CSS, JavaScript, and Java. I’m happy to share my beginner experiences.<br><br>⚡ Fun fact: I love how front-end design and back-end logic work together to create seamless user experiences.
-
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5pYnB0MG92dmtrOTR1MzBxb21ybnIxNGF0Y2pneWwzNm5wNG1mNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivane-rana-77982b2a5/overlay/about-this-profile/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23520673) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shivane_rana) 
