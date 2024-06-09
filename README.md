@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Enhancing my skills in HTML, JavaScript, Java, and CSS through small web development projects.<br><br>👯 I’m looking to collaborate on: Web projects involving front-end design or back-end development with Java.<br><br>🤝 I’m looking for help with: Learning full-stack development, including server-side technologies, databases, and modern frameworks.<br><br>🌱 I’m currently learning: Front-End principles, JavaScript, HTML, CSS and Java.<br><br>💬 Ask me about: Basic web development, HTML, CSS, JavaScript, and Java. I’m happy to share my beginner experiences.<br><br>⚡ Fun fact: I love how front-end design and back-end logic work together to create seamless user experiences.
+I’m currently working on: Enhancing my skills in HTML, JavaScript, Java, and CSS through small web development projects.I’m looking to collaborate on web projects involving front-end design or back-end development with Java.
 
 
 ## 🌐 Socials:
