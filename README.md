@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: Enhancing my skills in HTML, JavaScript, Java, and CSS through small web development projects.I’m looking to collaborate on web projects involving front-end design or back-end development with Java.
+I’m currently working on enhancing my skills in HTML, JavaScript, Java, and CSS through small web development projects.I’m looking to collaborate on web projects involving front-end design or back-end development with Java.
 
 
 ## 🌐 Socials:
