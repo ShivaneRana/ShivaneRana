@@ -1,4 +1,4 @@
-creating cool stuff make me happy
+Creating cool stuff makes me happy:)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivane-rana-77982b2a5/overlay/about-this-profile/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23520673) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shivane_rana) 
